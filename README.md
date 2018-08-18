@@ -1,1 +1,9 @@
-# my-reads-react
+
+## Install
+
+    $ yarn install
+
+
+## Start
+
+    $ yarn start
